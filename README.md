@@ -2,7 +2,7 @@
 <div>
 👋 Hi, I’m @ktorre94 (Kyra) 🖤 <br />
 👀 I’m interested in Web Design 🎨 <br />
-🌱 I’m currently learning HTML|CSS|JavaScript 👩‍💻 <br />
+🌱 I’m currently learning HTML | CSS | JavaScript 👩‍💻 <br />
 💞️ I’m looking for helpful tips and suggestions 🆘 <br />
 </div>
 
